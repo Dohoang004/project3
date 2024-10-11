@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+}
+.mydiv {
+  background-color: violet;
+  border: 7px outset brown;
+}
+.mydiv2 {
+  border: 4px outset springgreen;
+  width: 32%;
+  height: 600px;
+  display: inline-block;
+}
+body {
+  background-color: beige;
+}
+.hjk {
+  background-color: brown;
+}
